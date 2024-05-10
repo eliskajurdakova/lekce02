@@ -12,6 +12,34 @@ h1, h2, h3 {
     color: #b92e81;
 }
 
+.menu li {
+    display: inline-block;
+}
+
+.menu {
+    margin: 0%
+}
+
+.menu a {
+    text-decoration: none;
+    background-color: aqua;
+    display: inline-block;
+    padding: 20px;
+    
+}
+
+.menu {
+    background-color:purple;
+}
+
+.menu a:hover {
+    background-color: black;
+}
+
+
+
+
+
 /*
  BARVY
  czechitas  #b92e81
